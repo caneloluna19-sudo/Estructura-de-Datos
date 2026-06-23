@@ -21,3 +21,4 @@
 -
 -[primo](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/primo.java)
 -
+[1 y 100](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/primos1y100.java)
