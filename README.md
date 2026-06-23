@@ -17,3 +17,6 @@
 -
 -[circulo](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/circulo.java)
 -
+-[factorial](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/factorial.class)
+-
+
