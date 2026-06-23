@@ -19,4 +19,5 @@
 -
 -[factorial](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/factorial.class)
 -
-
+-[primo](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/primo.java)
+-
