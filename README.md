@@ -32,3 +32,11 @@
 #Segundo Paarcial
 -
 -[Nodo](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/Nodo.java)
+-
+-[Lista Enlazada](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/ListaEnlazada.java)
+-
+-[Lista Enlazada Basica](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/ListaEnlazadaBasica.java)
+-
+-[Lista EnlazadaPRI](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/Listaenlazadapri.java)
+-
+-[Principal Lista](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/principalLista.java)
