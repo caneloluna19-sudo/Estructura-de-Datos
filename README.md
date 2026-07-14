@@ -41,3 +41,4 @@
 -
 -[Principal Lista](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/principalLista.java)
 -
+-¡[cuadro comparativo](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/WhatsApp%20Image%202026-07-14%20at%2010.33.38%20AM.jpeg)
