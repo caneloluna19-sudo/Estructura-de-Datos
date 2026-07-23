@@ -45,6 +45,7 @@
 -![cuadro comparativo](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/WhatsApp%20Image%202026-07-14%20at%2010.33.38%20AM.jpeg)
 -
 -#proyecto2.0
+-
 -[curso](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/Curso.java)
 -
 -[sistema cursos](https://github.com/caneloluna19-sudo/Estructura-de-Datos/blob/main/SistemaCursos.java)
